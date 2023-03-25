@@ -38,3 +38,23 @@
 5
 1+1+2+1
 5
+Solve for x: x-5=0
+5
+Solve for x: x-5=1
+6
+Solve forx: x-5=2
+7
+Solve for x: x-5=3
+8
+Solve for x x-5=4
+9
+Solve for x: x+5=5
+0
+Solve for x: x+5=6
+1
+Solve for x: x+5=7
+2
+Solve for x: x+5=8
+3
+Solve for x: x+5=9
+4
